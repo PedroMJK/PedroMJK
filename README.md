@@ -1,7 +1,7 @@
 ### Olá! Sou o Pedro Monteiro
 
 - 🔭 Eu estou estudando Programação
-- 🌱 Eu estou aprendendo JavaScript, reachJS , TypeScript, Node.JS
+- 🌱 Eu estou aprendendo JavaScript, reactJS , NextJs, TypeScript, Node.JS, Java, Python
 - 👯 Tenho interesse em participar de projetos!
 - 📫 Pode entrar em contato, e-mail : Pedromonteiro.jk@gmail.com
 
