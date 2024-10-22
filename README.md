@@ -13,7 +13,8 @@
 - 👯 Tenho interesse em participar de projetos!
 - 📫 Pode entrar em contato: [pedromonteiro.jk@gmail.com](mailto:pedromonteiro.jk@gmail.com)
 
-![Snake animation](https://github.com/PedroMJK/PedroMJK/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/PedroMJK/PedroMJK/output/github-contribution-grid-snake.svg)
+
 
 ## Estatísticas do GitHub
 
