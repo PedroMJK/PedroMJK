@@ -44,10 +44,15 @@ Atualmente estudando e criando projetos com foco no mercado internacional.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### 🐍 Minhas contribuições sendo devoradas pela cobrinha
-<img src="https://raw.githubusercontent.com/PedroMJK/PedroMJK/output/github-contribution-grid-snake.svg">
+### 🐍 Snake Contribution (Custom Dark Mode)
 
----
+<div align="center">
+  <img 
+    src="https://raw.githubusercontent.com/PedroMJK/PedroMJK/output/github-contribution-grid-snake.svg?color_snake=#ff0000&color_grid=#00ff00&color_grid_background=#0b0b0b&color_back=#00000000"
+    alt="Snake animation"
+  />
+</div>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
