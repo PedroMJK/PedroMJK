@@ -1,17 +1,8 @@
-<style>
-  img:hover {
-    transform: scale(1.2);
-    transition: 0.3s;
-  }
-</style>
+
 
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=32&center=true&vCenter=true&width=600&lines=👋+Olá!+Eu+sou+o+Pedro+Monteiro;Desenvolvedor+Fullstack;Criando+Soluções+com+Tecnologia;Code.+Build.+Repeat.)
-
-<br>
-
-<img src="https://i.imgur.com/9WfP4Yf.gif" width="350"/>
 
 </div>
 
@@ -56,9 +47,13 @@ Atualmente estudando e criando projetos com foco no mercado internacional.
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMJK&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMJK&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true"/>
+
+<a href="https://github.com/PedroMJK">
+  <img height="180em" src="https://streak-stats.demolab.com?user=PedroMJK&theme=tokyonight&hide_border=true"/>
+</a>
+
 </div>
+
 
 ---
 
