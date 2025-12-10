@@ -44,14 +44,15 @@ Atualmente estudando e criando projetos com foco no mercado internacional.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### 🐍 Snake Contribution (Custom Dark Mode)
+### 🐍 Snake Contribution
 
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/PedroMJK/PedroMJK/output/github-contribution-grid-snake.svg?color_snake=#ff0000&color_grid=#00ff00&color_grid_background=#0b0b0b&color_back=#00000000"
+    src="https://raw.githubusercontent.com/PedroMJK/PedroMJK/output/github-contribution-grid-snake.svg?color_snake=#ff0000&color_dots=#00ff00&color_dots_empty=#0a0a0a&color_back=#00000000"
     alt="Snake animation"
   />
 </div>
+
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -70,8 +71,6 @@ Atualmente estudando e criando projetos com foco no mercado internacional.
 
 | 🔹 Projeto | 🚀 Link |
 |-----------|--------|
-| 🛒 Sistema de Vendas Fullstack | *(em desenvolvimento)* |
-| 📚 ToDoList MERN | *(deploy em breve)* |
 | 🌐 Portfólio Tech Minimal | https://pedromjk.vercel.app |
 
 ---
