@@ -1,54 +1,53 @@
-### Olá! Sou o Pedro Monteiro
+### 👋 Olá! Eu sou o Pedro Monteiro
 
-- 🔭 Eu estou estudando Programação
-- 🌱 Atualmente, estou aprendendo:
-  - JavaScript
-  - ReactJS
-  - Next.js
-  - TypeScript
-  - Node.js
-  - Java
-  - Python
-  - PHP
-  - E outras tecnologias
-- 👯 Tenho interesse em participar de projetos!
-- 📫 Pode entrar em contato: [pedromonteiro.jk@gmail.com](mailto:pedromonteiro.jk@gmail.com)
+Sou desenvolvedor apaixonado por tecnologia e sempre buscando aprender mais!  
+Atualmente estudando e criando projetos com foco no mercado internacional.
 
+---
 
-
-## Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/PedroMJK">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMJK&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMJK&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
-
-## Tecnologias
+### 🚀 Habilidades & Tecnologias
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-Nextjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Pedro-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Pedro-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Pedro-Jest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="Pedro-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Pedro-Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-</div>
+  <img align="center" alt="Js" height="40" width="40" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="Ts" height="40" width="40" src="https://skillicons.dev/icons?i=ts">
+  <img align="center" alt="React" height="40" width="40" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="Next" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs">
+  <img align="center" alt="Angular" height="40" width="40" src="https://skillicons.dev/icons?i=angular">
+  <img align="center" alt="Vue" height="40" width="40" src="https://skillicons.dev/icons?i=vue">
+  <img align="center" alt="Node" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs">
+  <img align="center" alt="Mongo" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb">
+  <img align="center" alt="Java" height="40" width="40" src="https://skillicons.dev/icons?i=java">
+  <img align="center" alt="Python" height="40" width="40" src="https://skillicons.dev/icons?i=python">
+  <img align="center" alt="PHP" height="40" width="40" src="https://skillicons.dev/icons?i=php">
+  <img align="center" alt="HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="Tailwind" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind">
+  <img align="center" alt="Git" height="40" width="40" src="https://skillicons.dev/icons?i=git">
+  <img align="center" alt="Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker">
 </div>
 
-## Contato
+---
 
-<div> 
-  <a href="mailto:pedromonteiro.jk@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-monteiro-3173b8241" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMJK&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMJK&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 📈 Gráfico de Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroMJK&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
+### 📫 Contato
+<div>
+  <a href="mailto:pedromonteiro.jk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pedro-monteiro-3173b8241" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/PedroMJK"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
