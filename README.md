@@ -44,16 +44,8 @@ Atualmente estudando e criando projetos com foco no mercado internacional.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<a href="https://github.com/PedroMJK">
-  <img height="180em" src="https://streak-stats.demolab.com?user=PedroMJK&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
+### 🐍 Minhas contribuições sendo devoradas pela cobrinha
+<img src="https://raw.githubusercontent.com/PedroMJK/PedroMJK/output/github-contribution-grid-snake.svg">
 
 ---
 
