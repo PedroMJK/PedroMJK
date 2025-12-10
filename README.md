@@ -1,9 +1,32 @@
-### 👋 Olá! Eu sou o Pedro Monteiro
+<style>
+  img:hover {
+    transform: scale(1.2);
+    transition: 0.3s;
+  }
+</style>
 
-Sou desenvolvedor apaixonado por tecnologia e sempre buscando aprender mais!  
-Atualmente estudando e criando projetos com foco no mercado internacional.
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=32&center=true&vCenter=true&width=600&lines=👋+Olá!+Eu+sou+o+Pedro+Monteiro;Desenvolvedor+Fullstack;Criando+Soluções+com+Tecnologia;Code.+Build.+Repeat.)
+
+<br>
+
+<img src="https://i.imgur.com/9WfP4Yf.gif" width="350"/>
+
+</div>
 
 ---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+### 🧠 Sobre mim
+
+Sou desenvolvedor apaixonado por tecnologia e sempre buscando evoluir!  
+Atualmente estudando e criando projetos com foco no mercado internacional.  
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ### 🚀 Habilidades & Tecnologias
 
@@ -28,26 +51,58 @@ Atualmente estudando e criando projetos com foco no mercado internacional.
 
 ---
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMJK&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMJK&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroMJK&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMJK&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true"/>
 </div>
 
 ---
 
-### 📈 Gráfico de Contribuições
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+### 🔥 Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroMJK&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroMJK&theme=react-dark&hide_border=true&area=true"/>
 </div>
 
 ---
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+### 🛠 Projetos em Destaque
+
+| 🔹 Projeto | 🚀 Link |
+|-----------|--------|
+| 🛒 Sistema de Vendas Fullstack | *(em desenvolvimento)* |
+| 📚 ToDoList MERN | *(deploy em breve)* |
+| 🌐 Portfólio Tech Minimal | https://pedromjk.vercel.app |
+
+---
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 ### 📫 Contato
-<div>
-  <a href="mailto:pedromonteiro.jk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/pedro-monteiro-3173b8241" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/PedroMJK"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<div align="center">
+  <a href="mailto:pedromonteiro.jk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-monteiro-3173b8241" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/PedroMJK" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </div>
+
+---
+
+### ⚙ Motto
+
+> “Code. Build. Repeat.”  
+> **Nunca parar de aprender.**
