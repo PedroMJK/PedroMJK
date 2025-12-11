@@ -71,7 +71,7 @@ Atualmente estudando e criando projetos com foco no mercado internacional.
 
 | 🔹 Projeto | 🚀 Link |
 |-----------|--------|
-| 🌐 Portfólio Tech Minimal | https://https://pedro-monteiro.vercel.app/ |
+| 🌐 Portfólio Tech Minimal | https://pedro-monteiro.vercel.app/ |
 
 ---
 
