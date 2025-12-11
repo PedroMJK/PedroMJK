@@ -1,8 +1,6 @@
-
-
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=32&center=true&vCenter=true&width=600&lines=👋+Olá!+Eu+sou+o+Pedro+Monteiro;Desenvolvedor+Fullstack;Criando+Soluções+com+Tecnologia;Code.+Build.+Repeat.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=32&center=true&vCenter=true&width=600&lines=👋+Hi!+I'm+Pedro+Monteiro;Fullstack+Developer;Building+Modern+Web+Solutions;Code.+Build.+Repeat.)
 
 </div>
 
@@ -10,34 +8,34 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### 🧠 Sobre mim
+### 🧠 About Me
 
-Sou desenvolvedor apaixonado por tecnologia e sempre buscando evoluir!  
-Atualmente estudando e criando projetos com foco no mercado internacional.  
+Passionate fullstack developer, always learning and building meaningful solutions.  
+Focused on creating high-quality projects while preparing for opportunities in the international tech market.
 
 ---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### 🚀 Habilidades & Tecnologias
+### 🚀 Skills & Technologies
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="40" width="40" src="https://skillicons.dev/icons?i=js">
-  <img align="center" alt="Ts" height="40" width="40" src="https://skillicons.dev/icons?i=ts">
-  <img align="center" alt="React" height="40" width="40" src="https://skillicons.dev/icons?i=react">
-  <img align="center" alt="Next" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs">
-  <img align="center" alt="Angular" height="40" width="40" src="https://skillicons.dev/icons?i=angular">
-  <img align="center" alt="Vue" height="40" width="40" src="https://skillicons.dev/icons?i=vue">
-  <img align="center" alt="Node" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs">
-  <img align="center" alt="Mongo" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb">
-  <img align="center" alt="Java" height="40" width="40" src="https://skillicons.dev/icons?i=java">
-  <img align="center" alt="Python" height="40" width="40" src="https://skillicons.dev/icons?i=python">
-  <img align="center" alt="PHP" height="40" width="40" src="https://skillicons.dev/icons?i=php">
-  <img align="center" alt="HTML" height="40" width="40" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="CSS" height="40" width="40" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="Tailwind" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind">
-  <img align="center" alt="Git" height="40" width="40" src="https://skillicons.dev/icons?i=git">
-  <img align="center" alt="Docker" height="40" width="40" src="https://skillicons.dev/icons?i=docker">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=js">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=ts">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=react">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=nextjs">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=angular">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=vue">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=nodejs">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=mongodb">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=java">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=python">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=php">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=html">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=css">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=tailwind">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=git">
+  <img align="center" height="40" width="40" src="https://skillicons.dev/icons?i=docker">
 </div>
 
 ---
@@ -53,11 +51,11 @@ Atualmente estudando e criando projetos com foco no mercado internacional.
   />
 </div>
 
-
+---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### 🔥 Atividade no GitHub
+### 🔥 GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroMJK&theme=react-dark&hide_border=true&area=true"/>
@@ -67,17 +65,17 @@ Atualmente estudando e criando projetos com foco no mercado internacional.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### 🛠 Projetos em Destaque
+### 🛠 Featured Projects
 
-| 🔹 Projeto | 🚀 Link |
+| 🔹 Project | 🚀 Link |
 |-----------|--------|
-| 🌐 Portfólio Tech Minimal | https://pedro-monteiro.vercel.app/ |
+| 🌐 Tech Minimal Portfolio | https://pedro-monteiro.vercel.app/ |
 
 ---
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### 📫 Contato
+### 📫 Contact
 
 <div align="center">
   <a href="mailto:pedromonteiro.jk@gmail.com" target="_blank">
@@ -96,4 +94,4 @@ Atualmente estudando e criando projetos com foco no mercado internacional.
 ### ⚙ Motto
 
 > “Code. Build. Repeat.”  
-> **Nunca parar de aprender.**
+> Always learning. Always improving.
