@@ -10,8 +10,9 @@
 
 ### 🧠 About Me
 
-Passionate fullstack developer, always learning and building meaningful solutions.  
-Focused on creating high-quality projects while preparing for opportunities in the international tech market.
+Full Stack Developer building practical, high-quality solutions with modern web technologies.
+Focused on writing clean, scalable code and delivering real business value.
+Preparing for international opportunities through continuous improvement and solid projects
 
 ---
 
