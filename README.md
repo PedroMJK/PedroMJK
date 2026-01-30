@@ -10,9 +10,7 @@
 
 ### 🧠 About Me
 
-Full Stack Developer building practical, high-quality solutions with modern web technologies.
-Focused on writing clean, scalable code and delivering real business value.
-Preparing for international opportunities through continuous improvement and solid projects
+Full Stack Developer building practical, high-quality solutions with modern web technologies. Focused on writing clean, scalable code and delivering real business value. Continuously evolving to take on complex, high-impact challenges through strong fundamentals and well-structured projects
 
 ---
 
