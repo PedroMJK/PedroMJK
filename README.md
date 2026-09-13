@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=32&center=true&vCenter=true&width=600&lines=👋+Hi!+I'm+Pedro+Monteiro;Fullstack+Developer;Building+Modern+Web+Solutions;Code.+Build.+Repeat.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=32&center=true&vCenter=true&width=600&lines=👋+Hi!+I'm+Pedro+Monteiro;Fullstack+Developer)
 
 </div>
 
