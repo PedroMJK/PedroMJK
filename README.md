@@ -8,9 +8,27 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
+
 ### 🧠 About Me
 
 Full Stack Developer building practical, high-quality solutions with modern web technologies. Focused on writing clean, scalable code and delivering real business value. Continuously evolving to take on complex, high-impact challenges through strong fundamentals and well-structured projects
+
+---
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+### 📫 Contact
+
+<div align="center">
+  <a href="mailto:pedromonteiro.jk@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-monteiro-3173b8241" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/PedroMJK" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
 
 ---
 
@@ -54,16 +72,6 @@ Full Stack Developer building practical, high-quality solutions with modern web 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### 🔥 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroMJK&theme=react-dark&hide_border=true&area=true"/>
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
 ### 🛠 Featured Projects
 
 | 🔹 Project | 🚀 Link |
@@ -74,23 +82,4 @@ Full Stack Developer building practical, high-quality solutions with modern web 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-### 📫 Contact
-
-<div align="center">
-  <a href="mailto:pedromonteiro.jk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/pedro-monteiro-3173b8241" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/PedroMJK" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</div>
-
 ---
-
-### ⚙ Motto
-
-> “Code. Build. Repeat.”  
-> Always learning. Always improving.
